@@ -24,5 +24,5 @@ void loop() {
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   //issues
   delay(3000);               // wait for 3 secondsi
-                             // that's it
+                             // that's it!
 }
